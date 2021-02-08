@@ -8,14 +8,14 @@ let myself = {
   pastJobs: "I worked at Karimnot and also as a freelance doing things with Grails.",
   aboutMe: "I love everything related to technology and programming. I'm continuously learning new things. ",
   technologies: {
-    actualTechnologies: [
+    current: [
       "Ruby on Rails",
       "React/React Native",
       "SQL (Postgres)",
       "Javascript"'
       "Sidekiq"
     ],
-    pastTechnologies: [
+    past: [
       "Java",
       "Node.js",
       "Grails"
