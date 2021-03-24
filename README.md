@@ -12,23 +12,23 @@ let myself = {
       "Ruby on Rails",
       "React/React Native",
       "SQL (Postgres)",
-      "Javascript"'
-      "Sidekiq"
+      "Javascript",
+      "Sidekiq",
     ],
     past: [
       "Java",
       "Node.js",
-      "Grails"
+      "Grails",
     ]
   },
   hobbies: [
     {"Listening To Music": "I'm most of the time listening to music."},
-    {"Mechanical Keyboards": "Recently I've been very interesting in mechanical keyboards modding."}
+    {"Mechanical Keyboards": "Recently I've been very interesting in mechanical keyboards modding."},
   ],
   socialNetworks: [
-    {"Instagram:" "@giovannimartinezdionisio"},
-    {"LinkedIn": "https://www.linkedin.com/in/orlando-martinez-dionisio/"}
-  ]
+    {"Instagram": "@giovannimartinezdionisio"},
+    {"LinkedIn": "https://www.linkedin.com/in/orlando-martinez-dionisio/"},
+  ],
 }
 ```
 
