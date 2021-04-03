@@ -23,7 +23,7 @@ let myself = {
   },
   hobbies: [
     {"Listening To Music": "I'm most of the time listening to music."},
-    {"Mechanical Keyboards": "Recently I've been very interesting in mechanical keyboards modding."},
+    {"Mechanical Keyboards": "Recently I've been very interested in mechanical keyboards modding."},
   ],
   socialNetworks: [
     {"Instagram": "@giovannimartinezdionisio"},
